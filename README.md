@@ -1,4 +1,3 @@
-# data-science-project
 # Iris Flower Species Data Analysis Project
 
 ## 1. The problem or research question
